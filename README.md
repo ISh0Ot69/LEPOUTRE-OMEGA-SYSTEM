@@ -14,9 +14,9 @@ Ce dépôt implémente la constante de cohérence de **3%** sur les flux univers
 
 ### 🧮 La Trinité des 3% (Patch 3.0) :
 Le rendement est divisé en trois vecteurs de cohérence :
-* **1% Recherche :** Optimisation de la gravité quantique.
-* **1% Finance :** Alignement des flux bancaires sur $c^2$.
-* **1% Énergie :** Stabilisation de la masse cohérente ($m_c$).
+* **3% Recherche :** Optimisation de la gravité quantique.
+* **3% Finance :** Alignement des flux bancaires sur $c^2$.
+* **3% Énergie :** Stabilisation de la masse cohérente ($m_c$).
 
 > **"Visible pour tous, impénétrable pour les requins."**
 
